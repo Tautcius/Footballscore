@@ -3,6 +3,6 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="team_name">32sp</dimen>
-    <dimen name="score_size">48dp</dimen>
+    <dimen name="score_size">48sp</dimen>
     <dimen name="margin">8dp</dimen>
 </resources>
